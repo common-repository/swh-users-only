@@ -1,0 +1,94 @@
+# Copyright (C) 2015 SWH Users Only
+# This file is distributed under the same license as the SWH Users Only package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SWH Users Only 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/swh-users-only\n"
+"POT-Creation-Date: 2015-11-03 19:01:28+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  plugin.pot (SWH Users Only 1.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: settings.php:6
+msgid "SWH Users Only"
+msgstr ""
+
+#: settings.php:13
+msgid "SWH Users Only Settings"
+msgstr ""
+
+#: settings.php:32 settings.php:34
+msgid "Default Output"
+msgstr ""
+
+#: settings.php:33
+msgid "Help"
+msgstr ""
+
+#: settings.php:35 settings.php:59
+msgid "Replacement Text"
+msgstr ""
+
+#: settings.php:36
+msgid "Text Before Login Form"
+msgstr ""
+
+#: settings.php:37
+msgid "Login Forms"
+msgstr ""
+
+#: settings.php:43
+msgid "Use shortcode in this way:"
+msgstr ""
+
+#: settings.php:58
+msgid "Wordpress Login Form"
+msgstr ""
+
+#: settings.php:62
+msgid ""
+"If you select replacement text, the text below will be shown instead of "
+"Login Form."
+msgstr ""
+
+#: settings.php:88
+msgid "Show replacement text before login form"
+msgstr ""
+
+#: settings.php:104
+msgid ""
+"Show only one login form in content and show replacement text instead of "
+"other items"
+msgstr ""
+
+#: swh-users-only.php:55
+msgid "Login failed! Please try again."
+msgstr ""
+
+#: swh-users-only.php:106
+msgid "Login to see the content."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://SinaWebHost.ir/plugins/swh-users-only/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"SWH Users Only allows you to hide some parts of your content from not logged "
+"in users using shortcode.<br>[swh-users-only]Text, Content, Image, Video, "
+"Shortcode, HTML & etc.[/swh-users-only]"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sina Saeedi"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://SinaSaeedi.ir/"
+msgstr ""

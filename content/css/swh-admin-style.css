@@ -1,0 +1,83 @@
+.red {
+    color: red !important;
+}
+
+.green {
+    color: green !important;
+}
+
+.orange {
+    color: orange !important;
+}
+
+.blue {
+    color: blue !important;
+}
+
+.yellow {
+    color: yellow !important;
+}
+
+.purple {
+    color: purple !important;
+}
+
+.size-600 {
+    width: 600px !important;
+}
+
+.swh-meta-box p {
+    clear: both;
+}
+
+.swh-meta-box p label {
+    width: 100px;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.swh-meta-box p input, .swh-meta-box p select {
+    width: 200px;
+}
+
+.swh-meta-box p i {
+    padding-left: 100px;
+}
+
+.swh-meta-box table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.swh-meta-box thead {
+    background: #F1F1F1;
+}
+
+.swh-meta-box thead th {
+    border-left: 1px solid #FFFFFF;
+}
+
+.swh-meta-box thead th:first-child {
+    border-left: none;
+}
+
+.swh-meta-box tr {
+    border-bottom: 1px solid #F1F1F1;
+}
+
+.swh-meta-box tr:last-child {
+    border-bottom: none;
+}
+
+.swh-meta-box td {
+    padding: 3px;
+    border-left: 1px solid #F1F1F1;
+}
+
+.swh-meta-box td:first-child {
+    border-left: none;
+}
+
+.pointer {
+    cursor: pointer;
+}
